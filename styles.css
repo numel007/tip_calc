@@ -1,0 +1,25 @@
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: greenyellow;
+}
+
+input {
+    width: 75px;
+    padding-left: 2px;
+    margin-left: 10px;
+}
+
+h1 {
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    text-decoration: underline;
+    align-self: center;
+}
+
+p {
+    font-size: 1.5em;
+    font-family: 'Courier New', Courier, monospace;
+}
